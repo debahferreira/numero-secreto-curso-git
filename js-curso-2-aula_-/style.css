@@ -65,7 +65,7 @@ body::before {
 }
 
 .container__texto {
-    margin: 16px 0 16px 0;
+    margin: 10px 0 10px 0;
 }
 
 .container__texto-azul {
@@ -92,8 +92,8 @@ body::before {
 
 h1 {
     font-family: 'Chakra Petch', sans-serif;
-    font-size: 72px;
-    padding-bottom: 3rem;
+    font-size: 56px;
+    padding-bottom: 1rem;
 }
 
 p,
@@ -102,7 +102,7 @@ button {
 }
 
 .texto__paragrafo {
-    font-size: 32px;
+    font-size: 25px;
     font-weight: 400;
 }
 
