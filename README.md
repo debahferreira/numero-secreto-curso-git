@@ -11,4 +11,6 @@ Projeto realizado no curso 3 da trilha de Java do Geração Caldeira. Para estud
 - CSS
 
 <h4>Autores</h4>
-[<img width=115><br><sub>Deborah Ferreira Ribeiro</sub>](https://github.com/debahferreira)
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/173303161?v=4" width=115><br><sub>Deborah Ferreira Ribeiro</sub>](https://github.com/debahferreira)
+
+
